@@ -1,3 +1,3 @@
 # mdtest
 
-For more information please see [kurl.sh/docs/](https://kurl.sh/docs/)
+For more information please see [amit](https://kurl.sh/docs/)
